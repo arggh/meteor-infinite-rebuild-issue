@@ -5,7 +5,5 @@ import { multiply } from 'utils/math';
 
 
 Template.body.helpers({
-  multiply(first, second) {
-    return multiply(first, second);
-  }
-})
+  multiply
+});
